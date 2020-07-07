@@ -36,5 +36,4 @@
      echo $response . "\r\n";
     return $response;
   }
-
 ?>
